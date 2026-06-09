@@ -99,5 +99,7 @@ window.siteConfig = {
         "محاولة استخدام برامج الاختراق يعرضك للملاحقة القانونية والحظر الكلي من الشبكة"
     ],
     "estr": "",
-    "moba": "live.html"
+    "moba": "live.html",
+    "liveStreamUrl": "http:\/\/89.117.50.191:8088\/watch\/max_net_317",
+    "autoLiveRedirect": true
 };
