@@ -101,5 +101,6 @@ window.siteConfig = {
     "estr": "",
     "moba": "live.html",
     "liveStreamUrl": "http:\/\/89.117.50.191:8088\/watch\/max_net_317",
-    "autoLiveRedirect": true
+    "autoLiveRedirect": true,
+    "liveRedirectMode": "inapp"
 };
